@@ -11,7 +11,7 @@ __pycache__/
 .env
 .env.*
 !.env.sample  # Keep a template for reference
-!.env.dev  # Optional: keep a template
+!.env.dev
 
 # ─── DATABASE FILES ────────────────────
 *.sqlite3
